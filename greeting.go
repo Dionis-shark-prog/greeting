@@ -1,4 +1,4 @@
-package greeting
+package github.com/Dionis-shark-prog/greeting
 
 import "fmt"
 
